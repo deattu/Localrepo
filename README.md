@@ -1,2 +1,2 @@
 # Localrepo
-My local repo
+My local repository
